@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../BinaryLed"
+		},
+		{
+			"name": "BinaryLedV2",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
